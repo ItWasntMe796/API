@@ -1,0 +1,11 @@
+{
+  "name": "sm",
+  "version": "1.0.0",
+  "description": "SM",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "ItWasntMe",
+  "license": "ISC"
+}
